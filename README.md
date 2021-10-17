@@ -9,5 +9,3 @@ Actively contributing to [Android WebView](https://www.chromium.org/developers/a
 ](https://github.com/codingtosh/github-readme-stats)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingtosh&theme=blue-green)
-
-![visits](https://visitor-badge.laobi.icu/badge?page_id=codingtosh.codingtosh)
